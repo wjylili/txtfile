@@ -1,16 +1,48 @@
-172.67.71.91:443#HK 官方优选 82ms
-172.67.73.135:443#HK 官方优选 83ms
-104.20.25.160:443#HK 官方优选 84ms
-104.20.30.197:443#HK 官方优选 105ms
-104.17.17.25:443#US 官方优选 145ms
-104.19.246.207:443#US 官方优选 146ms
-104.16.212.165:443#US 官方优选 148ms
-104.17.198.56:443#US 官方优选 148ms
-104.18.211.65:443#US 官方优选 149ms
-104.18.172.126:443#US 官方优选 149ms
-104.16.94.145:443#US 官方优选 149ms
-104.16.58.58:443#US 官方优选 150ms
-104.17.19.216:443#US 官方优选 150ms
-104.16.152.233:443#US 官方优选 150ms
-104.16.110.112:443#US 官方优选 151ms
-104.17.54.111:443#US 官方优选 151ms
+time.cloudflare.com
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+www.visa.com
+www.visa.com.sg
+www.visa.com.hk
+www.visa.com.tw
+www.visa.co.jp
+www.visakorea.com
+www.gco.gov.qa
+www.gov.se
+www.gov.ua
+www.digitalocean.com
+www.csgo.com
+www.shopify.com
+www.whoer.net
+www.whatismyip.com
+www.ipget.net
+www.hugedomains.com
+www.udacity.com
+www.4chan.org
+www.okcupid.com
+www.glassdoor.com
+www.udemy.com
+www.baipiao.eu.org
+cdn.anycast.eu.org
+cdn-all.xn--b6gac.eu.org
+cdn-b100.xn--b6gac.eu.org
+xn--b6gac.eu.org
+edgetunnel.anycast.eu.org
+alejandracaiccedo.com
+nc.gocada.co
+log.bpminecraft.com
+www.boba88slot.com
+gur.gov.ua
+www.zsu.gov.ua
+www.iakeys.com
+edtunnel-dgp.pages.dev
+www.d-555.com
+fbi.gov
